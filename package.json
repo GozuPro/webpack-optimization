@@ -18,7 +18,7 @@
     "express": "^4.15.3",
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^0.10.1",
-    "gsap": "^2.1.2",
+    "gsap": "^3.6.0",
     "haz-touch": "^1.1.1",
     "history": "^4.6.1",
     "hoc-react-datgui": "0.0.2",
