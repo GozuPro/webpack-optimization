@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ajv": "^4.11.8",
+    "ajv": "^6.12.3",
     "amazon-products-api": "0.0.4",
     "autoprefixer": "^6.7.7",
     "autoprefixer-loader": "^3.2.0",
